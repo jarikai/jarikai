@@ -28,5 +28,12 @@
 
 ---
 
-## 📊 GitHub Stats
-![Jari's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarikai&showsername=jarikai&layout=name=jarikai&theme=dark)✨ “Code is like the wind — you can’t see it, but you can feel its impact.”
+## 📫 Connect with Me
+- **GitHub:** https://github.com/jarikai  
+- **LinkedIn:** https://www.linkedin.com/in/jarikaipio  
+- **Website:** https://www.kaipio.com  
+
+---
+
+### ✨ “Code is like the wind — you can’t see it, but you can feel its impact.”
+
