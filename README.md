@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 - 🌟 **25+ years** of experience in software development — both as a hobbyist and professional.
 - 💡 Passionate about creating elegant, efficient solutions and exploring new technologies.
-- 🏠 Love building **smart home automations** using [Home Assistant](https://www.homecoding, you’ll find me sailing and enjoying the freedom of the open water.
+- 🏠 Love building **smart home automations** using [Home Assistant](https://www.home-assistant.io/), you’ll find me sailing and enjoying the freedom of the open water.
 
 ---
 
