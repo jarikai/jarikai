@@ -1,6 +1,6 @@
 
 <!-- Banner -->
-![Banner](https://img.shields.io/badge/Welcome%20to%20Jari's%20GitHub-blue?style=t | 🏠 Smart Home Hobbyist
+![Banner](Designer.png) | 🏠 Smart Home Hobbyist
 
 ---
 
@@ -29,4 +29,4 @@
 ---
 
 ## 📊 GitHub Stats
-![Jari's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarikai&showsername=jarikai&layout=name=jarikai&theme=dark✨ “Code is like the wind — you can’t see it, but you can feel its impact.”
+![Jari's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarikai&showsername=jarikai&layout=name=jarikai&theme=dark)✨ “Code is like the wind — you can’t see it, but you can feel its impact.”
