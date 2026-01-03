@@ -12,8 +12,9 @@
 ---
 
 ## 🔧 Tech Stack & Interests
-- **Languages:** C#, Python, JavaScript, TypeScript
-- **Frameworks & Tools:** .NET, Node.js, React, Docker
+- **Languages:** C#, Python, JavaScript, TypeScript, C++
+- **Frameworks & Tools:** ASP.NET, dotnet, Node.js, React, Docker, Angular, AI
+- **Cloud:** AWS, Azure, GPC, Upcloud
 - **Special Interests:**  
   - Home Automation  
   - IoT Projects  
