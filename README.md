@@ -1,9 +1,4 @@
 
-<!-- Banner -->
-![Banner](Designer.png) | 🏠 Smart Home Hobbyist
-
----
-
 ## 👨‍💻 About Me
 - 🌟 **25+ years** of experience in software development — both as a hobbyist and professional.
 - 💡 Passionate about creating elegant, efficient solutions and exploring new technologies.
